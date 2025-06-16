@@ -1,5 +1,5 @@
-# AI-Based-Facial-Recognition-Attendance-System
-******************************************************************************************Face Attendance System**************************************************************************************************
+# AI-Based Facial Recognition Attendance System
+
 
 This repository contains code for a face attendance system that utilizes Firebase for data storage. It consists of three main Python scripts: ADDDATATODATABASE.py, ENCODE.py, and main.py. The system captures images of team members, encodes their faces, stores the data in Firebase, and allows attendance tracking.
 
