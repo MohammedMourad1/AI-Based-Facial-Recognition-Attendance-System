@@ -3,7 +3,7 @@
 
 This repository contains code for a face attendance system that utilizes Firebase for data storage. It consists of three main Python scripts: ADDDATATODATABASE.py, ENCODE.py, and main.py. The system captures images of team members, encodes their faces, stores the data in Firebase, and allows attendance tracking.
 
-Getting Started
+# Getting Started
 To set up and use the system, follow these steps:
 **************************************************
 1. Firebase Setup
@@ -50,12 +50,10 @@ face-attendance-system/
 │
 └── README.md
 
-Dependencies
+# Dependencies
 ************
 Python 3.x
 OpenCV
 NumPy
 Firebase SDK
 *************
-
-****************************************************Contributions are welcome! Feel free to open an issue or submit a pull request.****************************************************************************
